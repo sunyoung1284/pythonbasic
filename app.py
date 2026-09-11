@@ -12,3 +12,5 @@ daily_tasks = 4
 completed_tasks = 3
 progress = (completed_tasks / daily_tasks) * 100
 print(f"오늘 처리한 업무 진척도: {progress:.1f}%")
+
+print("new version")
